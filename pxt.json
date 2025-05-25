@@ -1,5 +1,6 @@
 {
     "name": "FNAF Darkened Times Demo (September 2024)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
